@@ -1,3 +1,6 @@
+> **Portfolio status / 作品集状态：CASE STUDY · Agent Systems**
+> Independent multi-Agent runtime case study; retained separately for its event-driven architecture.
+
 # haole-mas
 
 `haole-mas` 是一个以群聊为交互入口的多 Agent 工作平台。项目以 `haole_03` 为唯一后端与编排主干，统一了 Next.js 前端、Skill 市场、Redis Agent 任务总线、MCP 工具、持久化用户事件、SSE 回放和短信 OTP 登录。
